@@ -1,6 +1,6 @@
 # Hi, I'm Syed Maroof Hussain 👋
 
-CS student at the University of Guelph (Dean's Honours), interested in C++, networking and low-latency systems, and in the places where finance and software engineering meet.
+CS student at the University of Guelph, interested in C++, networking and low-latency systems, and in the places where finance and software engineering meet.
 
 ## Open source
 - **[Monero](https://github.com/monero-project/monero/pulls?q=is%3Apr+author%3Asmhussa22)**: per-peer bandwidth limits in the networking layer, and a fix for a DNSSEC validation vulnerability
