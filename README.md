@@ -6,7 +6,7 @@ Particularly, I'm very intrigued by low-latency systems such as financial softwa
 
 ## 🌱 What I'm doing at the moment... 
 - Working on **[Maroof Street](https://github.com/monero-project/monero/pulls?q=is%3Apr+author%3Asmhussa22)**, A distributed mini stock exchange built around my C++ matching engine, where simulated accounts trade real symbols using live market data.
-- Reading **[Inside the Machine](https://www.amazon.ca/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680) by Jon Stokes**,
+- Reading **[Inside the Machine](https://www.amazon.ca/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680) by Jon Stokes**
 
 ## 🌳 What I've worked on... 
 - **[Monero](https://github.com/monero-project/monero/pulls?q=is%3Apr+author%3Asmhussa22)**
